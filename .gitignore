@@ -1,0 +1,9 @@
+Debug
+*.ilk
+*.vs
+*.exe
+*.pdb
+*.filters
+*.user
+*.vcxproj
+*.obj
